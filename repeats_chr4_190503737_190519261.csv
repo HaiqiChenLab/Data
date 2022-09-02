@@ -1,4 +1,4 @@
-#bin	swScore	milliDiv	milliDel	milliIns	genoName	genoStart	genoEnd	genoLeft	strand	repName	repClass	repFamily	repStart	repEnd	repLeft	id
+bin	swScore	milliDiv	milliDel	milliIns	genoName	genoStart	genoEnd	genoLeft	strand	repName	repClass	repFamily	repStart	repEnd	repLeft	id
 2038	2158	110	10	13	chr4	190503460	190503769	-650507	-	AluSx1	SINE	Alu	-2	310	3	2
 2038	2327	117	0	0	chr4	190503809	190504118	-650158	+	AluSc5	SINE	Alu	1	309	-3	2
 2038	345	268	37	0	chr4	190504621	190504703	-649573	-	Charlie4z	DNA	hAT-Charlie	-82	85	1	2
