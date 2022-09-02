@@ -1,4 +1,4 @@
-"""bin""",swScore,milliDiv,milliDel,milliIns,genoName,genoStart,genoEnd,genoLeft,strand,repName,repClass,repFamily,repStart,repEnd,repLeft,id
+bin,swScore,milliDiv,milliDel,milliIns,genoName,genoStart,genoEnd,genoLeft,strand,repName,repClass,repFamily,repStart,repEnd,repLeft,id
 1032,2385,133,52,8,chr13,58647258,58647660,-56522218,+,MSTA,LTR,ERVL-MaLR,1,420,-8,1
 1032,437,304,129,14,chr13,58647993,58648210,-56521668,-,MIR,SINE,MIR,-1,261,20,1
 1032,540,320,35,40,chr13,58649930,58650132,-56519746,+,LTR16A,LTR,ERVL,1,201,-250,1
