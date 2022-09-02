@@ -1,3 +1,3 @@
-"""chrom""",chromStart,chromEnd,name,gieStain
-chr2,150500000,154900000,q23.3,gneg
-chr2,154900001,155900001,q14,gpos75
+chrom,chromStart,chromEnd,name,gieStain
+chr2,150500000,153493576,q23.3,gneg
+chr2,153493577,155900001,q14,gpos75
